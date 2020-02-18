@@ -1,0 +1,8 @@
+{
+  "realm": "test-realm-venuapps",
+  "auth-server-url": "https://sso.inmbzr0235.in.dst.ibm.com.example.com/auth",
+  "ssl-required": "external",
+  "resource": "app-profile-html5",
+  "public-client": true,
+  "confidential-port": 0
+}
